@@ -4,7 +4,7 @@ fonttools==4.61.1
 future==1.0.0
 h5py==3.11.0
 ipywidgets==8.1.1
-keras==3.0.0
+keras>=3.5.0
 matplotlib==3.10.8
 numexpr==2.12.1
 numpy==2.0.0
